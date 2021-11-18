@@ -9,3 +9,7 @@ These are the best fruits:
 1. mango
 1. ripe pear
 1. grapefruit
+
+I prefer:
+1.Mango
+2.Banana
